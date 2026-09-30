@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+  <rect width="512" height="512" fill="#FC4C02"/>
+  <!-- document with a folded corner -->
+  <g transform="translate(-8 0)">
+  <path d="M176 96 H310 L376 162 V392 Q376 416 352 416 H176 Q152 416 152 392 V120 Q152 96 176 96 Z" fill="#FFFFFF"/>
+  <path d="M310 96 V138 Q310 162 334 162 H376 Z" fill="#FFD2BD"/>
+  </g>
+  <!-- download arrow -->
+  <g transform="translate(-8 0)" fill="none" stroke="#FC4C02" stroke-width="26" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M264 196 V318"/>
+    <path d="M214 270 L264 320 L314 270"/>
+    <path d="M204 366 H324"/>
+  </g>
+</svg>
